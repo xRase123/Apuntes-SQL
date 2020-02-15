@@ -21,3 +21,34 @@ Existen tres tipos de comandos SQL:
 
 Los DLL(Data Definition Language) que permiten crear y definir nuevas bases de datos, campos e índices. Los DML(Data Manipulation Language) que permiten generar consultas para ordenar, filtrar y extraer datos de la base de datos. Los DCL(Data Control Language) que se encargan de definir las permisos sobre los datos
 # SELECT
+La instrucción SELECT se usa para seleccionar datos de una base de datos.
+
+Los datos devueltos se almacenan en una tabla de resultados.
+
+EJEMPLO DE SELECT:
+SELECT X
+FROM Y
+WHERE ...
+
+Donde X debe ser sustituído por el nombre de una columna de la tabla referenciada en Y
+# FROM
+El comando FROM se usa para especificar de qué tabla seleccionar o eliminar datos.
+
+EJEMPLO DE FROM:
+SELECT X
+FROM Y 
+WHERE ...
+
+Donde Y referencia una tabla compuesta por Columnas (X) que son llamadas con el SELECT.
+# WHERE
+La cláusula WHERE se usa para filtrar registros.
+
+La cláusula WHERE se usa para extraer solo aquellos registros que cumplen una condición específica.
+
+EJEMPLO DE WHERE:
+SELECT name
+FROM FRIENDS
+WHERE name = 'Pepe Rodríguez'
+
+Donde WHERE reduce la lista proporcionada por el FROM (Y) y actúa sobre los datos del SELECT (X) a los nombres que coincídan con la cláusula proporcionada en el WHERE.
+# SUM & COUNT
