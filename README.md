@@ -1,5 +1,5 @@
 # Apuntes/SQL-JavierCamposAlvedro(ASI105)
-Apuntes de la Asignatura de Base de Datos:
+Apuntes de Bases de Datos.
 # Índice:
 1. Teoría Básica
 2. SELECT
