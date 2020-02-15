@@ -45,7 +45,7 @@ La cláusula WHERE se usa para filtrar registros.
 
 La cláusula WHERE se usa para extraer solo aquellos registros que cumplen una condición específica.
 
-![GitHub Where Clause] (/descargas/1.png)
+![GitHub Where Clause] (/descargas/Github images/1.png)
 Format : ![Alt Text](url)
 
 Donde WHERE reduce la lista proporcionada por el FROM (Y) y actúa sobre los datos del SELECT (X) a los nombres que coincídan con la cláusula proporcionada en el WHERE.
