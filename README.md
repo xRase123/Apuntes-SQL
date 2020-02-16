@@ -7,7 +7,7 @@ Apuntes sobre SQL de la asignatura de Bases de Datos.
 4. [SELECT](#SELECT)
 5. [FROM](#FROM)
 6. [WHERE](#WHERE)
-7. [COUNT, AVG & SUM](#COUNT-AVG-&-SUM)
+7. [COUNT, AVG & SUM](#COUNT-AVG-SUM)
 8. [JOIN](#JOIN)
 9. [NULL](#NULL)
 10. [SUBLENGUAJES](#SUBLENGUAJES)
