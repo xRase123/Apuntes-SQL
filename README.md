@@ -13,7 +13,7 @@ Apuntes sobre SQL de la asignatura de Bases de Datos.
 10. SUBLENGUAJES
 11. WebGrafía / Infografía
 
-#Teoría-Básica
+# Teoría-Básica
 SQL (Structured Query Language) es un lenguaje declarativo de acceso a bases de datos relacionales que permite especificar diversos tipos de operaciones en ellas. Una de sus características es el manejo del álgebra y el cálculo relacional que permiten efectuar consultas con el fin de recuperar de forma sencilla información de interés de bases de datos, así como hacer cambios en ella.
 
 El SQL es un lenguaje de acceso a bases de datos que explota la flexibilidad y potencia de los sistemas relacionales y permite así gran variedad de operaciones.
