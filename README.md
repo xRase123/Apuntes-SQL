@@ -82,14 +82,14 @@ EJEMPLO DE NULL:
 Hay que de definir que lenguajes SQL existe 1, el mismo SQL, pero este a su vez está compuesto de 6 Sublenguajes
 
 Sub – Lenguajes de SQL:
-	- DQL (Data Query Language).		. Select,
-	- DML (Data Manipulation Language).	. Select, Insert, Update, Delete
-		*DML Actúa sobre los Datos*
-	- DDL (Data Definition Language)		. Create, Alter, Drop, Truncate
-	 	*DDL Actúa sobre los objetos de la base de datos*
-	- DCL (Data Control Language).		. Grant, Revoke 
-	- TCL (Transacion Control Language).	. Commit, Rollback, Savepoint
-	- SCL  (Session Control Language).		. Alter, Session
+1.	- DQL (Data Query Language).		. Select,
+2.	- DML (Data Manipulation Language).	. Select, Insert, Update, Delete
+3.		*DML Actúa sobre los Datos*
+4.	- DDL (Data Definition Language)		. Create, Alter, Drop, Truncate
+5.	 	*DDL Actúa sobre los objetos de la base de datos*
+6.	- DCL (Data Control Language).		. Grant, Revoke 
+7.	- TCL (Transacion Control Language).	. Commit, Rollback, Savepoint
+8.	- SCL  (Session Control Language).		. Alter, Session
 
 # WebGrafía-Infografía
 1. [W3Schools](https://www.w3schools.com/sql/default.asp)
