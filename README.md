@@ -92,8 +92,8 @@ Sub – Lenguajes de SQL:
 	- SCL  (Session Control Language).		. Alter, Session
 
 # WebGrafía / Infografía
-[W3Schools](https://www.w3schools.com/sql/default.asp)
-[SQLzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-[Tsql](https://www.tsql.info/)
-[Sublenguajes-SQL](https://mauricioaguilar1825.wordpress.com/sql/)
-[Wikipedia-SQL](https://en.wikipedia.org/wiki/SQL)
+1. [W3Schools](https://www.w3schools.com/sql/default.asp)
+2. [SQLzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+3. [Tsql](https://www.tsql.info/)
+4. [Sublenguajes-SQL](https://mauricioaguilar1825.wordpress.com/sql/)
+5. [Wikipedia-SQL](https://en.wikipedia.org/wiki/SQL)
