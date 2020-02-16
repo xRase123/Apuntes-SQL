@@ -18,7 +18,7 @@ SQL (Structured Query Language) es un lenguaje declarativo de acceso a bases de 
 
 El SQL es un lenguaje de acceso a bases de datos que explota la flexibilidad y potencia de los sistemas relacionales y permite así gran variedad de operaciones.
 
-# Componentes del SQL
+# Componentes-del-SQL
 El lenguaje SQL está compuesto por comandos, cláusulas, operadores y funciones de agregado. Estos elementos se combinan en las instrucciones para crear, actualizar y manipular las bases de datos.
 
 # COMANDOS
@@ -57,7 +57,7 @@ La cláusula WHERE se usa para extraer solo aquellos registros que cumplen una c
 
 Donde WHERE reduce la lista proporcionada por el FROM (Y) y actúa sobre los datos del SELECT (X) a los nombres que coincídan con la cláusula proporcionada en el WHERE.
 
-# COUNT,AVG & SUM
+# COUNT,-AVG-&-SUM
 La función COUNT () devuelve el número de filas que coinciden con un criterio específico.
 La función AVG () devuelve el valor promedio de una columna numérica.
 La función SUMA () devuelve la suma total de una columna numérica.
@@ -91,7 +91,7 @@ Sub – Lenguajes de SQL:
 	- TCL (Transacion Control Language).	. Commit, Rollback, Savepoint
 	- SCL  (Session Control Language).		. Alter, Session
 
-# WebGrafía / Infografía
+# WebGrafía-/-Infografía
 1. [W3Schools](https://www.w3schools.com/sql/default.asp)
 2. [SQLzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 3. [Tsql](https://www.tsql.info/)
