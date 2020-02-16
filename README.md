@@ -2,16 +2,16 @@
 Apuntes sobre SQL de la asignatura de Bases de Datos.
 # Índice:
 1. [Teoría Básica](#Teoría-Básica)
-2. Componentes del SQL
-3. COMANDOS
-4. SELECT
-5. FROM
-6. WHERE
-7. COUNT, AVG & SUM
-8. JOIN
-9. NULL
-10. SUBLENGUAJES
-11. WebGrafía / Infografía
+2. [Componentes del SQL](# Componentes-del-SQL)
+3. [COMANDOS](# COMANDOS)COMANDOS
+4. [SELECT](# SELECT)
+5. [FROM](# FROM)
+6. [WHERE](# WHERE)
+7. [COUNT, AVG & SUM](# COUNT,-AVG-&-SUM)
+8. [JOIN](# JOIN)
+9. [NULL](# NULL)
+10. [SUBLENGUAJES](# SUBLENGUAJES)
+11. [WebGrafía / Infografía](# WebGrafía-/-Infografía)
 
 # Teoría-Básica
 SQL (Structured Query Language) es un lenguaje declarativo de acceso a bases de datos relacionales que permite especificar diversos tipos de operaciones en ellas. Una de sus características es el manejo del álgebra y el cálculo relacional que permiten efectuar consultas con el fin de recuperar de forma sencilla información de interés de bases de datos, así como hacer cambios en ella.
