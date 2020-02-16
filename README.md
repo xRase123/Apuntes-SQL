@@ -57,7 +57,7 @@ La cláusula WHERE se usa para extraer solo aquellos registros que cumplen una c
 
 Donde WHERE reduce la lista proporcionada por el FROM (Y) y actúa sobre los datos del SELECT (X) a los nombres que coincídan con la cláusula proporcionada en el WHERE.
 
-# COUNT,-AVG-&-SUM
+# COUNT-AVG-SUM
 La función COUNT () devuelve el número de filas que coinciden con un criterio específico.
 La función AVG () devuelve el valor promedio de una columna numérica.
 La función SUMA () devuelve la suma total de una columna numérica.
