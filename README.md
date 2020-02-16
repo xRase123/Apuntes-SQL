@@ -84,9 +84,9 @@ Hay que de definir que lenguajes SQL existe 1, el mismo SQL, pero este a su vez 
 Sub – Lenguajes de SQL:
 1.	- DQL (Data Query Language).		. Select,
 2.	- DML (Data Manipulation Language).	. Select, Insert, Update, Delete
-	    	*DML Actúa sobre los Datos*
+2.1	    	*DML Actúa sobre los Datos*
 3.	- DDL (Data Definition Language)		. Create, Alter, Drop, Truncate
-    	 	*DDL Actúa sobre los objetos de la base de datos*
+3.1    	 	*DDL Actúa sobre los objetos de la base de datos*
 4.	- DCL (Data Control Language).		. Grant, Revoke 
 5.	- TCL (Transacion Control Language).	. Commit, Rollback, Savepoint
 6.	- SCL  (Session Control Language).		. Alter, Session
