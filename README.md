@@ -7,19 +7,25 @@ Apuntes de Bases de Datos.
 4. SELECT
 5. FROM
 6. WHERE
-7. SUM & COUNT
+7. COUNT, AVG & SUM
 8. JOIN
 9. NULL
-# Teoría Básica:
+10. SUBLENGUAJES
+11. WebGrafía / Infografía
+
+# Teoría Básica
 SQL (Structured Query Language) es un lenguaje declarativo de acceso a bases de datos relacionales que permite especificar diversos tipos de operaciones en ellas. Una de sus características es el manejo del álgebra y el cálculo relacional que permiten efectuar consultas con el fin de recuperar de forma sencilla información de interés de bases de datos, así como hacer cambios en ella.
 
 El SQL es un lenguaje de acceso a bases de datos que explota la flexibilidad y potencia de los sistemas relacionales y permite así gran variedad de operaciones.
+
 # Componentes del SQL
 El lenguaje SQL está compuesto por comandos, cláusulas, operadores y funciones de agregado. Estos elementos se combinan en las instrucciones para crear, actualizar y manipular las bases de datos.
+
 # COMANDOS
 Existen tres tipos de comandos SQL:
 
 Los DLL(Data Definition Language) que permiten crear y definir nuevas bases de datos, campos e índices. Los DML(Data Manipulation Language) que permiten generar consultas para ordenar, filtrar y extraer datos de la base de datos. Los DCL(Data Control Language) que se encargan de definir las permisos sobre los datos
+
 # SELECT
 La instrucción SELECT se usa para seleccionar datos de una base de datos.
 
@@ -31,6 +37,7 @@ FROM Y
 WHERE ...
 
 Donde X debe ser sustituído por el nombre de una columna de la tabla referenciada en Y
+
 # FROM
 El comando FROM se usa para especificar de qué tabla seleccionar o eliminar datos.
 
@@ -40,12 +47,53 @@ FROM Y
 WHERE ...
 
 Donde Y referencia una tabla compuesta por Columnas (X) que son llamadas con el SELECT.
+
 # WHERE
 La cláusula WHERE se usa para filtrar registros.
 
 La cláusula WHERE se usa para extraer solo aquellos registros que cumplen una condición específica.
 
-*AQUÍ VA LA IMAGEN*
+1.PNG
 
 Donde WHERE reduce la lista proporcionada por el FROM (Y) y actúa sobre los datos del SELECT (X) a los nombres que coincídan con la cláusula proporcionada en el WHERE.
-# SUM & COUNT
+
+# COUNT,AVG & SUM
+La función COUNT () devuelve el número de filas que coinciden con un criterio específico.
+La función AVG () devuelve el valor promedio de una columna numérica.
+La función SUMA () devuelve la suma total de una columna numérica.
+
+EJEMPLO DE COUNT:
+EJEMPLO DE AVG:
+EJEMPLO DE SUM:
+# JOIN
+Una cláusula JOIN se usa para combinar filas de dos o más tablas, en función de una columna relacionada entre ellas.
+EJEMPLO DE UN JOIN:
+
+DIFERENTES JOIN's:
+
+# NULL
+Un campo con un valor NULL es un campo sin valor.
+
+Si un campo en una tabla es opcional, es posible insertar un nuevo registro o actualizar un registro sin agregar un valor a este campo. Luego, el campo se guardará con un valor NULL.
+
+EJEMPLO DE NULL:
+
+# SUBLENGUAJES
+Hay que de definir que lenguajes SQL existe 1, el mismo SQL, pero este a su vez está compuesto de 6 Sublenguajes
+
+Sub – Lenguajes de SQL:
+	- DQL (Data Query Language).		. Select,
+	- DML (Data Manipulation Language).	. Select, Insert, Update, Delete
+		*DML Actúa sobre los Datos*
+	- DDL (Data Definition Language)		. Create, Alter, Drop, Truncate
+	 	*DDL Actúa sobre los objetos de la base de datos*
+	- DCL (Data Control Language).		. Grant, Revoke 
+	- TCL (Transacion Control Language).	. Commit, Rollback, Savepoint
+	- SCL  (Session Control Language).		. Alter, Session
+
+# WebGrafía / Infografía
+[W3Schools](https://www.w3schools.com/sql/default.asp)
+[SQLzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+[Tsql](https://www.tsql.info/)
+[Sublenguajes-SQL](https://mauricioaguilar1825.wordpress.com/sql/)
+[Wikipedia-SQL](https://en.wikipedia.org/wiki/SQL)
