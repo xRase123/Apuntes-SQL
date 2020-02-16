@@ -11,7 +11,7 @@ Apuntes sobre SQL de la asignatura de Bases de Datos.
 8. [JOIN](#JOIN)
 9. [NULL](#NULL)
 10. [SUBLENGUAJES](#SUBLENGUAJES)
-11. [WebGrafía / Infografía](#WebGrafía-/-Infografía)
+11. [WebGrafía / Infografía](#WebGrafía-Infografía)
 
 # Teoría-Básica
 SQL (Structured Query Language) es un lenguaje declarativo de acceso a bases de datos relacionales que permite especificar diversos tipos de operaciones en ellas. Una de sus características es el manejo del álgebra y el cálculo relacional que permiten efectuar consultas con el fin de recuperar de forma sencilla información de interés de bases de datos, así como hacer cambios en ella.
@@ -91,7 +91,7 @@ Sub – Lenguajes de SQL:
 	- TCL (Transacion Control Language).	. Commit, Rollback, Savepoint
 	- SCL  (Session Control Language).		. Alter, Session
 
-# WebGrafía-/-Infografía
+# WebGrafía-Infografía
 1. [W3Schools](https://www.w3schools.com/sql/default.asp)
 2. [SQLzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 3. [Tsql](https://www.tsql.info/)
